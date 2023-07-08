@@ -3,54 +3,80 @@ layout: cv
 title: Antonio F Bove
 ---
 # Antonio François Bove
-Junior Full stack web developer
+Junior full stack web developer
 
 <div id="webaddress">
-    &#64; <a href="antoniofbove@gmail.com">antoniofbove@gmail.com</a>
+    <!-- BUG: non manda la mail -->
+    <a href="antoniofbove@gmail.com">&#64; antoniofbove@gmail.com</a> 
     <!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
-    <!-- TODO: more contact info-->
+    <!-- TODO: more contact info: location, tel, linkedin/github -->
+    <!-- add icons -->
 </div>
+
+## Profilo
+
+Eh mo ti voglio
 
 
 ## Attualmente
 
-Attivo su diversi progetti di sviluppo software all'interno del reparto IT di Guala Closures Group:
+Sono attivo su due progetti di sviluppo software all'interno del reparto IT di Guala Closures Group:
 - Applicazione frontend di tipo enterprise (MES) con Angular e Ionic
-- Progetto di migrazione dati verso nuovo ERP (Python, Nifi)
+- Progetto di migrazione dati verso nuovo ERP con Python e Nifi
 
 
-### Esperienze pregresse nell'abito dello sviluppo
+### Esperienze di sviluppo software
 
 - Sviluppo e mantenimento di frontend web complessi e crossplatform
 - Refactoring di una codebase per permetterne l'internazionalizzazzione (i18n)
+- Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati
 
 
-### Interessato in
+### Interessato ad
 
 - Espandere la mia conoscenza del web e delle sue tecnologie
 - Espandere la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
-- programmazione funzionale (Elixirlang)
-- Integrare l'AI nel mio workflow (Copilot/CodeWhisperer/ChatGpt)
 - Imparare a testare il codice e acquisire compentenze di TDD
+- Approfondire i concetti di programmazione funzionale (Elixirlang)
+- Integrare l'AI nel mio workflow (Copilot/CodeWhisperer/ChatGpt) e nei miei applicativi (Langchain, Hugging Face)
+
+
+### Tecnologie
+
+`Linguaggi` 
+
+- HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
+
+`Librerie/Framework`
+
+- Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
+
+`Database`
+
+- MySql, Postgres
+
+`Tool`
+
+- Git, Jira, Retool
 
 
 ## Esperienze
 
 `Settembre 2022 - Ora`
-__Junior Full Stack Developer__ - _Guala Closures Group_
+__Junior Full Stack Developer__ | _Guala Closures Group_
 
-- /o
+La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi sta dando innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data science
 
 `2022`
-__Junior Full Stack Developer Trainee__ - _Boolean Careers_
+__Junior Full Stack Developer Trainee__ | _Boolean Careers_
 
-- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in squadra con altre 3 persone, un applicativo ispirato a AirBnb
-- Durante tutta la sua durata, il bootcamp si è caratterizzato con un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere
+- Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere
+- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (funzionalità?)
 
 `2012 - 2021`
-__Musicista - Insegnate di musica__ - _Associazione PlayNow, in proprio_
+__Musicista - Insegnate di musica__ | _Associazione PlayNow, in proprio_
 
-- La musica, il jazz in particolare, è stata la mia prima grande passione. In questi anni ho approfondito la tecnica e il ruolo del contrabbasso e del basso elettrico nella musica moderna, insegnando nel frattempo la chitarra ad adulti e bambini
+La musica, il jazz in particolare, è stata la mia prima grande passione. In questi anni ho approfondito la tecnica e il ruolo del contrabbasso e del basso elettrico nella musica moderna, insegnando nel frattempo la chitarra ad adulti e bambini
 
 
 ## Formazione
@@ -63,7 +89,7 @@ __Boolean Careers__
 `2016 - 2020`
 __Civica Scuola di Musica Claudio Abbado__
 
-- Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz
+- Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz
 
 `2009 - 2011`
 __Université Joseph Fourrier__
@@ -71,33 +97,4 @@ __Université Joseph Fourrier__
 - Frequentazione parziale del triennio di fisica. Primi approcci all'informatica
 
 
-<!-- ## Awards -->
-<!---->
-<!-- `2012` -->
-<!-- President, *Royal Society*, London, UK -->
-<!---->
-<!-- Associate, *French Academy of Science*, Paris, France -->
-
-
-<!-- ### Journals -->
-<!---->
-<!-- `1669` -->
-<!-- Newton Sir I, De analysi per æquationes numero terminorum infinitas.  -->
-<!---->
-<!-- `1669` -->
-<!-- Lectiones opticæ. -->
-<!---->
-<!-- etc. etc. etc. -->
-<!---->
-<!-- ### Patents -->
-<!---->
-<!-- `2012` -->
-<!-- Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001 -->
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<!-- TODO: lingue -->
