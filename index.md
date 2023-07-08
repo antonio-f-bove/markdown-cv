@@ -1,28 +1,32 @@
 ---
 layout: cv
-title: Antonio F Bove's CV
+title: Antonio F Bove
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Antonio François Bove
+Junior Full stack web developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="antoniofbove@gmail.com">antoniofbove@gmail.com</a>
+    | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on multiple software development projects at the Guala Closures Group IT department.
 
-### Specialized in
+### Specializing in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Development of complex front end applications with Angular/Ionic
+- 
 
 
-### Research interests
+### Current interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Functional programming (Elixirlang)
+- Expanding front end knowledge and experience
+- Expanding CS knowledge (algorithms and data structures)
+- Integrate AI into my workflow (Copilot/CodeWhisperer/ChatGpt)
 
 
 ## Education
@@ -35,10 +39,10 @@ __Trinity College, Cambridge__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2009 - 2011`
+__Université Joseph Fourrier__
 
-- Fellow
+- Details details
 
 
 

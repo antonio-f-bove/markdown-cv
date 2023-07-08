@@ -1,2 +1,6 @@
 markdown:   kramdown
 style:  kjhealy
+# languages: ["en", "it", "fr"]
+# default_lang: "en"
+# exclude_from_localization: ["javascript", "images", "css", "public"]
+# parallel_localization: true
