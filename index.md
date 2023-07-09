@@ -5,9 +5,9 @@ title: Antonio F Bove
 # Antonio François Bove
 Junior full stack web developer
 
-<div id="webaddress">
+<div id="webaddress" class="contact-info">
     <!-- BUG: non manda la mail -->
-    <a href="antoniofbove@gmail.com">&#64; antoniofbove@gmail.com</a> 
+    <ion-icon name="at-outline"></ion-icon> <a href="antoniofbove@gmail.com">antoniofbove@gmail.com</a>
     <!-- | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a> -->
     <!-- TODO: more contact info: location, tel, linkedin/github -->
     <!-- add icons -->
@@ -39,25 +39,6 @@ Sono attivo su due progetti di sviluppo software all'interno del reparto IT di G
 - Imparare a testare il codice e acquisire compentenze di TDD
 - Approfondire i concetti di programmazione funzionale (Elixirlang)
 - Integrare l'AI nel mio workflow (Copilot/CodeWhisperer/ChatGpt) e nei miei applicativi (Langchain, Hugging Face)
-
-
-### Tecnologie
-
-`Linguaggi` 
-
-- HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
-
-`Librerie/Framework`
-
-- Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
-
-`Database`
-
-- MySql, Postgres
-
-`Tool`
-
-- Git, Jira, Retool
 
 
 ## Esperienze
@@ -97,4 +78,25 @@ __Université Joseph Fourrier__
 - Frequentazione parziale del triennio di fisica. Primi approcci all'informatica
 
 
-<!-- TODO: lingue -->
+### Tecnologie
+
+`Linguaggi` 
+
+- HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
+
+`Librerie/Framework`
+
+- Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
+
+`Database`
+
+- MySql, Postgres
+
+`Tool`
+
+- Git, Jira, Retool
+
+
+### Lingue
+
+Sono madrelingua in __italiano__, __francese__ e __inglese__, e fluente in __spagnolo__ sia allo scritto che all'orale
