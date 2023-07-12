@@ -22,19 +22,19 @@ Junior full stack web developer
 <!-- Ad un anno dall'inizio della mia prima esperienza professionale nel mondo del software sono alla ricerca di una realtà dove continuare ad imparare e a produrre software di qualità. Durante questo periodo ho potuto dimostrare le mie capacità in diversi ambiti:  -->
 
 
-Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi pice scrivere codice pulito ed organizzato, configurare il mio termiale, e  soprattutto mi piace risolvere problemi! Per questo cerco una realtà dinamica e moderna nella quale integrarmi, che mi permetta di apportare il mio contributo, crescendo e facendo crescere
+Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi pice scrivere codice pulito ed organizzato, configurare il mio termiale, e  soprattutto mi piace risolvere problemi! Per questo cerco una realtà dinamica e moderna nella quale esprimere le mie qualità, sia tecniche che interpersonali, ed investire le mie risorse, crescendo e facendo crescere
 
 
 ## Attualmente
 
 Sono attivo su due progetti di sviluppo software all'interno del reparto IT di Guala Closures Group:
 - Applicazione frontend di tipo enterprise (MES) con Angular e Ionic
-- Progetto di migrazione dati verso nuovo ERP con Python e Nifi
+- Progetto di migrazione dati verso nuovo ERP (SAP S/4HANA) con Python e Nifi
 
 
 ### Progetti svolti
 
-<!-- - Progettazione e sviluppo di un monolite  -->
+<!-- - Progettazione e sviluppo di una applicazione fullstack (scopo didattico)  -->
 - Sviluppo e mantenimento di frontend web complessi e crossplatform
 - Refactoring di una codebase e implementazione del layer di internazionalizzazzione (i18n)
 - Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati
@@ -60,7 +60,7 @@ La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi s
 __Junior Full Stack Developer Trainee__ | _Boolean Careers_
 
 - Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere
-- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (funzionalità?)
+- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel)
 
 `2012 - 2021`
 __Musicista - Insegnate di musica__ | _Associazione PlayNow, in proprio_
@@ -83,7 +83,7 @@ __Civica Scuola di Musica Claudio Abbado__
 `2009 - 2011`
 __Université Joseph Fourrier__
 
-- Frequentazione parziale del triennio di fisica. Primi approcci all'informatica
+- Frequentazione parziale del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
 
 
 ### Tecnologie
@@ -103,4 +103,4 @@ __Tool__
 
 ### Lingue
 
-Sono madrelingua in __italiano__, __francese__ e __inglese__, e fluente in __spagnolo__ sia scritto che orale
+Sono madrelingua __italiano__, __francese__ e __inglese__, e fluente in __spagnolo__ sia scritto che orale
