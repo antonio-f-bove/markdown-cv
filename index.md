@@ -14,7 +14,7 @@ Junior full stack web developer
     <div><em>mail</em>: <a href="mailto:antoniofbove@gmail.com">antoniofbove@gmail.com</a></div>
     <div><em>tel</em>: +39 334 76 18 780</div>
     <div><em>linkedin</em>: <a href="https://www.linkedin.com/in/antonio-f-bove/">/antonio-f-bove</a></div>
-    <div><em>github</em>: <a href="https://github.com/antonio-f-bove">/antonio-f-bove</a></div>
+    <!-- <div><em>github</em>: <a href="https://github.com/antonio-f-bove">/antonio-f-bove</a></div> -->
 </div>
 
 ## Profilo
@@ -46,24 +46,24 @@ Sono attivo su due progetti di sviluppo software all'interno del reparto IT di G
 - Espandere la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
 - Imparare a testare il codice e acquisire compentenze di TDD
 - Approfondire i concetti di programmazione funzionale (Elixirlang)
-- Integrare l'AI nel mio workflow (Copilot/CodeWhisperer/ChatGpt) e nei miei applicativi (Langchain, Hugging Face)
+- Integrare l'AI nel mio workflow e nei miei applicativi 
 
 
 ## Esperienze
 
 `09/2022 - Ora`
-__Junior Full Stack Developer__ | _Guala Closures Group_
+**Junior Full Stack Developer** | *Guala Closures Group*
 
 La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi sta dando innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data science
 
 `2022`
-__Junior Full Stack Developer Trainee__ | _Boolean Careers_
+**Junior Full Stack Developer Trainee** | *Boolean Careers*
 
 - Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere
 - Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel)
 
 `2012 - 2021`
-__Musicista - Insegnate di musica__ | _Associazione PlayNow, in proprio_
+**Musicista - Insegnate di musica** | *Associazione PlayNow, in proprio*
 
 La musica, il jazz in particolare, è stata la mia prima grande passione. In questi anni ho approfondito la tecnica e il ruolo del contrabbasso e del basso elettrico nella musica moderna, insegnando nel frattempo la chitarra ad adulti e bambini
 
@@ -71,36 +71,36 @@ La musica, il jazz in particolare, è stata la mia prima grande passione. In que
 ## Formazione
 
 `2021 - 2022`
-__Boolean Careers__
+**Boolean Careers**
 
 - Corso full-time di sviluppo web full stack: oltre 700 ore di teoria e pratica di programmazione, sia in team che in autonomia
 
 `2016 - 2020`
-__Civica Scuola di Musica Claudio Abbado__
+**Civica Scuola di Musica Claudio Abbado**
 
 - Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz
 
 `2009 - 2011`
-__Université Joseph Fourrier__
+**Université Joseph Fourrier**
 
 - Frequentazione parziale del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
 
 
 ### Tecnologie
 
-__Linguaggi__ 
+**Linguaggi** 
 - HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
 
-__Librerie/Framework__
+**Librerie/Framework**
 - Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
 
-__Database__
+**Database**
 - MySql, Postgres
 
-__Tool__
+**Tool**
 - Git, Jira, Retool
 
 
 ### Lingue
 
-Sono madrelingua __italiano__, __francese__ e __inglese__, e fluente in __spagnolo__ sia scritto che orale
+Sono madrelingua **italiano**, **francese** e **inglese**, e fluente in **spagnolo** sia scritto che orale
