@@ -22,7 +22,7 @@ Junior full stack web developer
 <!-- Ad un anno dall'inizio della mia prima esperienza professionale nel mondo del software sono alla ricerca di una realtà dove continuare ad imparare e a produrre software di qualità. Durante questo periodo ho potuto dimostrare le mie capacità in diversi ambiti:  -->
 
 
-Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi pice scrivere codice pulito ed organizzato, configurare il mio termiale, e  soprattutto mi piace risolvere problemi! Per questo cerco una realtà dinamica e moderna nella quale esprimere le mie qualità, sia tecniche che interpersonali, ed investire le mie risorse, crescendo e facendo crescere
+Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi piace scrivere codice pulito ed organizzato, configurare il mio terminale, e  soprattutto mi piace risolvere problemi! Per questo cerco una realtà dinamica e moderna nella quale esprimere le mie qualità, sia tecniche che interpersonali, ed investire le mie risorse, crescendo e facendo crescere
 
 
 ## Attualmente
@@ -36,17 +36,17 @@ Sono attivo su due progetti di sviluppo software all'interno del reparto IT di G
 
 <!-- - Progettazione e sviluppo di una applicazione fullstack (scopo didattico)  -->
 - Sviluppo e mantenimento di frontend web complessi e crossplatform
-- Refactoring di una codebase e implementazione del layer di internazionalizzazzione (i18n)
+- Refactoring di una codebase e implementazione del layer di internazionalizzazione (i18n)
 - Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati
 
 
-### Interessato ad
+### Interessato a
 
 - Espandere la mia conoscenza del web e delle sue tecnologie
-- Espandere la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
-- Imparare a testare il codice e acquisire compentenze di TDD
+- Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
+- Imparare a testare il codice e acquisire competenze di TDD
 - Approfondire i concetti di programmazione funzionale (Elixirlang)
-- Integrare l'AI nel mio workflow e nei miei applicativi 
+- Integrare l'intelligenza artificiale nel mio workflow e nei miei applicativi 
 
 
 ## Esperienze
@@ -94,7 +94,7 @@ La musica, il jazz in particolare, è stata la mia prima grande passione. In que
 **Librerie/Framework**
 - Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
 
-<br>
+<br><br>
 
 **Database**
 - MySql, Postgres
@@ -107,4 +107,6 @@ La musica, il jazz in particolare, è stata la mia prima grande passione. In que
 
 Sono madrelingua **italiano**, **francese** e **inglese**, e fluente in **spagnolo** sia scritto che orale
 
-<div style="text-align: center; margin-top: .5rem; font-style: italic">Autorizzo il trattamento dei miei dati personali ai sensi del Dlgs 196 del 30 giugno 2003</div>
+<div style="text-align: center; margin-top: 3rem; font-style: italic;">
+Autorizzo il trattamento dei miei dati personali ai sensi del Dlgs 196 del 30 giugno 2003
+</div>
