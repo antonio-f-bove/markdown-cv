@@ -94,6 +94,8 @@ La musica, il jazz in particolare, è stata la mia prima grande passione. In que
 **Librerie/Framework**
 - Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
 
+<br>
+
 **Database**
 - MySql, Postgres
 
@@ -104,3 +106,5 @@ La musica, il jazz in particolare, è stata la mia prima grande passione. In que
 ### Lingue
 
 Sono madrelingua **italiano**, **francese** e **inglese**, e fluente in **spagnolo** sia scritto che orale
+
+<div style="text-align: center; margin-top: .5rem; font-style: italic">Autorizzo il trattamento dei miei dati personali ai sensi del Dlgs 196 del 30 giugno 2003</div>
