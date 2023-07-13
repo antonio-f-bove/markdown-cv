@@ -28,8 +28,8 @@ Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conos
 ## Attualmente
 
 Sono attivo su due progetti di sviluppo software all'interno del reparto IT di Guala Closures Group:
-- Applicazione frontend di tipo enterprise (MES) con Angular e Ionic
-- Progetto di migrazione dati verso nuovo ERP (SAP S/4HANA) con Python e Nifi
+- Applicazione **frontend** di tipo enterprise (MES) con Angular e Ionic
+- Progetto di migrazione **dati** verso nuovo ERP (SAP S/4HANA) con Python e Nifi
 
 
 ### Progetti svolti
@@ -44,9 +44,9 @@ Sono attivo su due progetti di sviluppo software all'interno del reparto IT di G
 
 - Espandere la mia conoscenza del web e delle sue tecnologie
 - Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
-- Imparare a testare il codice e acquisire competenze di TDD
-- Approfondire i concetti di programmazione funzionale (Elixirlang)
-- Integrare l'intelligenza artificiale nel mio workflow e nei miei applicativi 
+- Imparare a testare il codice e acquisire competenze di **TDD**
+- Approfondire i concetti di **programmazione funzionale** (Elixirlang)
+- Integrare l'**intelligenza artificiale** nel mio workflow e nei miei applicativi 
 
 
 ## Esperienze
