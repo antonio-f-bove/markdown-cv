@@ -52,7 +52,7 @@ Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di
 `09/2022 - Ora`
 **Junior Full Stack Developer** | _Guala Closures Group_
 
-La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi sta dando innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data science
+La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi sta dando innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data engineering
 
 `2022`
 **Junior Full Stack Developer Trainee** | _Boolean Careers_
