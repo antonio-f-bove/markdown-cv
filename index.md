@@ -16,7 +16,6 @@ Junior full stack web developer
     <div><em>mail</em>: <a href="mailto:antoniofbove@gmail.com">antoniofbove@gmail.com</a></div>
     <div><em>tel</em>: +39 334 76 18 780</div>
     <div><em>linkedin/github</em>: <a href="https://www.linkedin.com/in/antonio-f-bove/">/antonio-f-bove</a></div>
-    <!-- <div><em>github</em>: <a href="https://github.com/antonio-f-bove">/antonio-f-bove</a></div> -->
 </div>
 
 ## Profile
@@ -25,15 +24,16 @@ I am a highly motivated developer keen on strengthening and expanding my knowled
 
 ## Current Role
 
-I am currently engaged in two major software development areas within the IT department of Guala Closures Group:
+I am currently active on two major areas within the IT department of Guala Closures Group:
 
 - **Frontend** enterprise application (MES) with Angular and Ionic
-- Data migration project to a new ERP (SAP S/4HANA) using Python, Nifi, Airflow
+- **Data migration** of several of the group's subsidiaries to a new single ERP instance (SAP S/4HANA) using Python, Sql, Nifi and Airflow
 
 ### Completed Projects
 
-- Development and maintenance of complex and cross-platform web frontends
-- Refactoring of a codebase and implementation of internationalization (i18n) layer
+- Development and maintenance of complex cross-platform frontends
+- Refactoring of a codebase to enble internationalization (i18n in Angular)
+<!-- TODO: Reformulate! -->
 - Requirement gathering, design, and construction of data migration pipelines
 - Requirement gathering, design, and construction of internal tools
 
