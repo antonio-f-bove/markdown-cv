@@ -15,98 +15,94 @@ Junior full stack web developer
     <!-- add icons -->
     <div><em>mail</em>: <a href="mailto:antoniofbove@gmail.com">antoniofbove@gmail.com</a></div>
     <div><em>tel</em>: +39 334 76 18 780</div>
-    <div><em>linkedin</em>: <a href="https://www.linkedin.com/in/antonio-f-bove/">/antonio-f-bove</a></div>
+    <div><em>linkedin/github</em>: <a href="https://www.linkedin.com/in/antonio-f-bove/">/antonio-f-bove</a></div>
     <!-- <div><em>github</em>: <a href="https://github.com/antonio-f-bove">/antonio-f-bove</a></div> -->
 </div>
 
-## Profilo
+## Profile
 
-Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi piace scrivere codice pulito ed organizzato, configurare il mio terminale, e soprattutto mi piace risolvere problemi! Per questo cerco una realtà dinamica e moderna nella quale esprimere le mie qualità, sia tecniche che interpersonali, ed investire le mie risorse, crescendo e facendo crescere.
+I am a highly motivated developer keen on strengthening and expanding my knowledge and skills. I enjoy writing clean and organized code, configuring my terminal, and above all, solving problems! I am seeking a dynamic and modern environment to express my technical and interpersonal qualities, invest my resources, and grow both personally and professionally.
 
-## Attualmente
+## Current Role
 
-Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di Guala Closures Group:
+I am currently engaged in two major software development areas within the IT department of Guala Closures Group:
 
-- Applicazione **frontend** di tipo enterprise (MES) con Angular e Ionic
-- Progetto di migrazione **dati** verso nuovo ERP (SAP S/4HANA) con Python, Nifi, Airflow
+- **Frontend** enterprise application (MES) with Angular and Ionic
+- Data migration project to a new ERP (SAP S/4HANA) using Python, Nifi, Airflow
 
-### Progetti svolti
+### Completed Projects
 
-<!-- - Progettazione e sviluppo di una applicazione fullstack (scopo didattico)  -->
+- Development and maintenance of complex and cross-platform web frontends
+- Refactoring of a codebase and implementation of internationalization (i18n) layer
+- Requirement gathering, design, and construction of data migration pipelines
+- Requirement gathering, design, and construction of internal tools
 
-- Sviluppo e mantenimento di frontend web complessi e crossplatform
-- Refactoring di una codebase e implementazione del layer di internazionalizzazione (i18n)
-- Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati
-- Raccolta di requisiti, progettazione e costruzione di tool ad uso interno
+### Interested In
 
-### Interessato a
+- Expanding my knowledge of the web and its technologies
+- Broadening my understanding of Computer Science (algorithms, data structures, patterns)
+- Learning code testing and acquiring **TDD** skills
+- Delving into the concepts of **functional programming** (Elixirlang)
+- Integrating **artificial intelligence** into my workflow and applications
 
-- Espandere la mia conoscenza del web e delle sue tecnologie
-- Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
-- Imparare a testare il codice e acquisire competenze di **TDD**
-- Approfondire i concetti di **programmazione funzionale** (Elixirlang)
-- Integrare l'**intelligenza artificiale** nel mio workflow e nei miei applicativi
+## Work Experience
 
-## Esperienze
-
-`09/2022 - Ora`
+`09/2022 - Present`
 **Junior Full Stack Developer** | _Guala Closures Group_
 
-La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi sta dando innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data engineering
+My experience in this small IT department of a large multinational has provided countless opportunities for growth and learning. From frontend development (internally developed MES) to support tool development (Retool), to modern data engineering techniques for data manipulation and transformation.
 
 `2022`
 **Junior Full Stack Developer Trainee** | _Boolean Careers_
 
-- Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere
-- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel)
+- Emphasis on practical experience throughout the bootcamp, with daily tasks for problem-solving
+- During the final part of the course (3 weeks), designed and developed, in a team of 4, an application inspired by Airbnb (Vuejs, Laravel)
 
 `2012 - 2021`
-**Musicista - Insegnate di musica** | _Associazione PlayNow, in proprio_
+**Musician - Music Teacher** | _PlayNow Association, Freelance_
 
-La musica, il jazz in particolare, è stata la mia prima grande passione. In questi anni ho approfondito la tecnica e il ruolo del contrabbasso e del basso elettrico nella musica moderna, insegnando nel frattempo la chitarra ad adulti e bambini
+Music, particularly jazz, has been my initial passion. Over the years, I deepened my technique and the role of double bass and electric bass in modern music, simultaneously teaching guitar to adults and children.
 
-## Formazione
+## Education
 
-`Novembre 2023`
-Corso in **Sviluppo sicuro del codice** (Boolean Careers)
+`November 2023`
+Course in **Secure Code Development** (Boolean Careers)
 
-- 25 ore di introduzione alla materia, per iniziare ad integrare la sicurezza alla base nel mio modo di pensare il codice. Competenze acquisite: OWASP, security testing, panoramica sulle metriche di attacco, principali vulnerabilità del codice, application security, information gathering attivo e passivo, exploitation
+- 25 hours of introduction to the subject, integrating security fundamentals into my coding mindset. Acquired skills: OWASP, security testing, overview of attack metrics, main code vulnerabilities, application security, active and passive information gathering, exploitation.
 
 `2021 - 2022`
 **Boolean Careers**
 
-- Corso full-time di sviluppo web full stack: oltre 700 ore di teoria e pratica di programmazione, sia in team che in autonomia
+- Full-time full-stack web development course: over 700 hours of theory and programming practice, both in teams and independently
 
 `2016 - 2020`
-**Civica Scuola di Musica Claudio Abbado**
+**Civic School of Music Claudio Abbado**
 
-- Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz
+- Bachelor's degree: Academic Triennium in Jazz Double Bass
 
 `2009 - 2011`
-**Université Joseph Fourrier**
+**Université Joseph Fourier**
 
-- Frequentazione parziale del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
+- Partial attendance in the physics triennium. Initial exposure to computer science (C programming and Computer Architecture)
 
-### Tecnologie
+### Technologies
 
-**Linguaggi**
+**Languages**
 
 - HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
 
-**Librerie/Framework**
+**Libraries/Frameworks**
 
 - Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
 
-<br><br>
-
-**Tool**
+**Tools**
 
 - Git, Jira, Retool
 
-### Lingue
+### Languages
 
-Sono madrelingua **italiano**, **francese** e **inglese**, e fluente in **spagnolo** sia scritto che orale
+I am a native speaker of **Italian**, **French**, and **English**, and fluent in **Spanish** both written and oral.
 
 <div style="text-align: center; margin-top: 3rem; font-style: italic;">
-Autorizzo il trattamento dei miei dati personali ai sensi del Dlgs 196 del 30 giugno 2003
+I authorize the processing of my personal data in accordance with Legislative Decree 196 of June 30, 2003.
 </div>
