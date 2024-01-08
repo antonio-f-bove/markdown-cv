@@ -34,15 +34,15 @@ I am currently active on two major areas within the IT department of Guala Closu
 - Development and maintenance of complex cross-platform frontends
 - Refactoring of a codebase to enble internationalization (i18n in Angular)
 <!-- TODO: Reformulate! -->
-- Requirement gathering, design, and construction of data migration pipelines
-- Requirement gathering, design, and construction of internal tools
+- Colecting requirements, designing, and building **data migration** pipelines
+- Colecting requirements, designing, and building  **internal tools**
 
 ### Interested In
 
 - Expanding my knowledge of the web and its technologies
 - Broadening my understanding of Computer Science (algorithms, data structures, patterns)
 - Learning code testing and acquiring **TDD** skills
-- Delving into the concepts of **functional programming** (Elixirlang)
+<!-- - Delving into the concepts of **functional programming** (Elixirlang) -->
 - Integrating **artificial intelligence** into my workflow and applications
 
 ## Work Experience
@@ -50,7 +50,7 @@ I am currently active on two major areas within the IT department of Guala Closu
 `09/2022 - Present`
 **Junior Full Stack Developer** | _Guala Closures Group_
 
-My experience in this small IT department of a large multinational has provided countless opportunities for growth and learning. From frontend development (internally developed MES) to support tool development (Retool), to modern data engineering techniques for data manipulation and transformation.
+My experience in the small IT department of a large multinational company has been providing countless opportunities for growth and learning, spanning from frontend development (internally developed MES) to building tools for internal support), including data manipulation and ETL through modern data engineering techniques
 
 `2022`
 **Junior Full Stack Developer Trainee** | _Boolean Careers_
@@ -89,7 +89,7 @@ Course in **Secure Code Development** (Boolean Careers)
 
 **Languages**
 
-- HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
+- HTML, CSS, Javascript, Typescript, Python, Elixir, PHP, SQL
 
 **Libraries/Frameworks**
 
@@ -101,7 +101,7 @@ Course in **Secure Code Development** (Boolean Careers)
 
 ### Languages
 
-I am a native speaker of **Italian**, **French**, and **English**, and fluent in **Spanish** both written and oral.
+I am a native **Italian**, **French**, and **English** speacker, as well as fluent in **Spanish**, both spoken and written
 
 <div style="text-align: center; margin-top: 3rem; font-style: italic;">
 I authorize the processing of my personal data in accordance with Legislative Decree 196 of June 30, 2003.
