@@ -73,31 +73,31 @@ A 25 hour introduction to the subject that allowed me to start integrating secur
 `2021 - 2022`
 **Boolean Careers**
 
-- Full-time full-stack web development course: over 700 hours of theory and programming practice, both done in teams and independently
+Full-time full-stack web development course: over 700 hours of theory and programming practice, both done in teams and independently
 
 `2016 - 2020`
 **Civica Scuola di Musica Claudio Abbado**
 
-- Bachelor's degree in jazz upright bass
+Bachelor's degree in jazz upright bass
 
 `2009 - 2011`
 **Université Joseph Fourier**
 
-- Partial attendance in the physics triennium. Initial exposure to computer science (C programming and Computer Architecture)
+Partial attendance in the physics triennium. Initial exposure to computer science (C programming and Computer Architecture)
 
 ### Technologies
 
 **Languages**
 
-- HTML, CSS, Javascript, Typescript, Python, Elixir, PHP, SQL
+HTML, CSS, Javascript, Typescript, Python, Elixir, PHP, SQL
 
 **Libraries/Frameworks**
 
-- Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
+Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
 
 **Tools**
 
-- Git, Jira, Retool
+Git, Jira, Retool
 
 ### Languages
 
