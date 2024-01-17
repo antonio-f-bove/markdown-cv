@@ -44,7 +44,7 @@ Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di
 - Espandere la mia conoscenza del web e delle sue tecnologie
 - Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
 - Imparare a testare il codice e acquisire competenze di **TDD**
-- Approfondire i concetti di **programmazione funzionale** (Elixirlang)
+<!-- - Approfondire i concetti di **programmazione funzionale** (Elixirlang) -->
 - Integrare l'**intelligenza artificiale** nel mio workflow e nei miei applicativi
 
 ## Esperienze
