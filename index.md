@@ -63,6 +63,8 @@ During the final three weeks, we designed and developed (team of 4) a fullstack 
 
 Music, jazz in particular, has been my main creative outlet since adolescence. I studied both upright and electric bass' role in modern music during this time, all the while making a living as a performer and music teacher
 
+<!-- NOTE: line break to keep h2 from getting separated from following text -->
+<br> 
 ## Education
 
 `November 2023`
