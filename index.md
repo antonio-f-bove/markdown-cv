@@ -32,10 +32,10 @@ I am currently active on two major areas within the IT department of Guala Closu
 ### Completed Projects
 
 - Development and maintenance of complex cross-platform front ends
-- Refactoring of a codebase to enble internationalization (i18n in Angular)
+- Refactoring of a codebase to enable internationalization (i18n in Angular)
 <!-- TODO: Reformulate! -->
-- Colecting requirements, designing, and building **data migration** pipelines
-- Colecting requirements, designing, and building  **internal tools**
+- Collecting requirements, designing, and building **data migration** pipelines
+- Collecting requirements, designing, and building  **internal tools**
 
 ### Interested In
 
@@ -85,26 +85,22 @@ Bachelor's degree in jazz upright bass
 `2009 - 2011`
 **Université Joseph Fourier**
 
-Partial attendance in the physics triennium. Initial exposure to computer science (C programming and Computer Architecture)
+Partial attendance to bachelor in physics. Initial exposure to computer science (programming in C and Computer Architecture)
 
 ### Technologies
 
-**Languages**
+**Programming Languages**
 
 HTML, CSS, Javascript, Typescript, Python, Elixir, PHP, SQL
 
 **Libraries/Frameworks**
 
-Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
-
-**Tools**
-
-Git, Jira, Retool
+Angular, Ionic, Vue, Svelte, FastApi, Bootstrap, Tailwind, Laravel, Express, Pandas
 
 ### Languages
 
-I am a native **Italian**, **French**, and **English** speacker, as well as fluent in **Spanish**, both spoken and written
+I am a native **Italian**, **French**, and **English** speaker, as well as fluent in **Spanish**, both spoken and written
 
-<div style="text-align: center; margin-top: 3rem; font-style: italic;">
-I authorize the processing of my personal data in accordance with Legislative Decree 196 of June 30, 2003.
-</div>
+<!-- <div style="text-align: center; margin-top: 3rem; font-style: italic;"> -->
+<!-- I authorize the processing of my personal data in accordance with Legislative Decree 196 of June 30, 2003. -->
+<!-- </div> -->
