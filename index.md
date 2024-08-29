@@ -25,8 +25,8 @@ Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conos
 
 ## Attualmente
 
-Ricopro il ruolo di *Consultant* in Capgemini, focalizzato sullo sviluppo frontend di una SPA per cliente finale in ambito bancario. L'applicazione è sviluppata in Angular e mi sono concentrato sul refactoring dello state management, approfondendo così le mie conoscenze **RXJS** e di pattern quali **flux**, **redux**, e **observable data services**. Quest'ultima esperienza mi sta dando la possibilità di apprezzare a pieno questo tipo di soluzioni, rese necessarie da un complesso caso di *shared state*. 
-Capitato in un "grosso" team (15-20 sviluppatori) ho avuto modo di confrontarmi con l'interpretazione *enterprise* delle metodologie **agile**, e anche di iniziare a condividere le mie conoscenze con i colleghi, organizzando una serie di incontri divulgativi sulla programmazione reattiva in Angular e le tematiche sopra citate.
+Ricopro il ruolo di *Consultant* in Capgemini, focalizzato sullo sviluppo frontend di una SPA per cliente finale in ambito bancario. L'applicazione è sviluppata in **Angular** e mi sono concentrato sul refactoring dello *state management*, approfondendo così le mie conoscenze di **RXJS** e di pattern quali **flux**, **redux**, e **observable data services**. Quest'ultima esperienza mi sta dando la possibilità di apprezzare a pieno questo tipo di soluzioni, rese necessarie da un complesso caso di *shared state*. 
+Capitato in un "grosso" team (15-20 sviluppatori) ho avuto modo di confrontarmi con l'interpretazione *enterprise* delle metodologie **agile**, e anche di iniziare a condividere le mie conoscenze con i colleghi, organizzando una serie di incontri divulgativi sulla programmazione reattiva in Angular e i pattern sopra citati.
 
 <!-- 
 Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di Guala Closures Group:
@@ -50,14 +50,26 @@ Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di
 - Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
 - Imparare a testare il codice e acquisire competenze di **TDD**
 - Approfondire i concetti di **programmazione funzionale** (Elixirlang)
+<!--
 - Integrare l'**intelligenza artificiale** nel mio workflow e nei miei applicativi
+-->
 
 ## Esperienze
 
-`09/2022 - Ora`
+`04/2024 - presente`
+**Consultant - Software Developer** | _Capgemini_
+
+Con un focus sul frontend (Angular) in Capgemini sto avendo modo di mettere mano a *tanto* codice: Sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conose di RXJS e di programmazione reattiva
+
+`03/2024 - 04/2024`
+**Insegnante di Javascript** | _Scuola Mohole_
+
+Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgemini mi si è presentata un'occasione d'oro, quella di insegnare javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che interpersonale, che spero di poter ripetere in futuro
+
+`09/2022 - 03/2024`
 **Junior Full Stack Developer** | _Guala Closures Group_
 
-La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi sta dando innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data engineering
+La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi ha dandatodo innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente con Angular) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data engineering (Python, Airflow, Spark)
 
 `2022`
 **Junior Full Stack Developer Trainee** | _Boolean Careers_
