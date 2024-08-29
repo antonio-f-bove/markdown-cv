@@ -48,50 +48,50 @@ Capitato in un team numeroso (15-20 sviluppatori), ho avuto modo di confrontarmi
 `04/2024 - presente`
 **Consultant - Software Developer** | _Capgemini_
 
-Con un focus sul frontend (Angular) in Capgemini sto avendo modo di vedere *tanto* codice: sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conose di RXJS e di programmazione reattiva
+Con un focus sul frontend (Angular) in Capgemini sto avendo modo di vedere tanto codice: sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conoscenze di RXJS e di programmazione reattiva. 
 
 `03/2024 - 04/2024`
 **Insegnante di Javascript** | _Scuola Mohole_
 
-Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgemini mi si è presentata un'occasione d'oro, quella di insegnare javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che interpersonale, che spero di poter ripetere in futuro
+Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgeminiho avuto l'occasione di insegnare javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che interpersonale, che spero di poter ripetere in futuro. 
 
 `09/2022 - 03/2024`
 **Junior Full Stack Developer** | _Guala Closures Group_
 
-La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi ha dandatodo innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente con Angular) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data engineering (Python, Airflow, Spark)
+La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi ha dandatodo innumerevoli opportunità di crescita e di apprendimento. Dallo sviluppo frontend (MES sviluppato internamente con Angular) allo sviluppo di tool di supporto (Retool), fino alla manipolazione e trasformazione dei dati grazie alle tecniche moderne di data engineering (Python, Airflow, Spark). 
 
 `2022`
 **Junior Full Stack Developer Trainee** | _Boolean Careers_
 
-- Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere
-- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel)
+- Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere. 
+- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel). 
 
 `2012 - 2021`
 **Musicista - Insegnate di musica** | _Associazione PlayNow, in proprio_
 
-La musica, il jazz in particolare, è stata la mia prima grande passione. In questi anni ho approfondito la tecnica e il ruolo del contrabbasso e del basso elettrico nella musica moderna, insegnando nel frattempo la chitarra ad adulti e bambini
+La musica, il jazz in particolare, è stata la mia prima grande passione. In questi anni ho approfondito la tecnica e il ruolo del contrabbasso e del basso elettrico nella musica moderna, insegnando nel frattempo chitarra ad adulti e bambini. 
 
 ## Formazione
 
 `Novembre 2023`
 Corso in **Sviluppo sicuro del codice** (Boolean Careers)
 
-- 25 ore di introduzione alla materia, per iniziare ad integrare la sicurezza alla base nel mio modo di pensare il codice. Competenze acquisite: OWASP, security testing, panoramica sulle metriche di attacco, principali vulnerabilità del codice, application security, information gathering attivo e passivo, exploitation
+- 25 ore di introduzione alla materia, per iniziare ad integrare la sicurezza alla base nel mio modo di pensare il codice. Competenze acquisite: OWASP, security testing, panoramica sulle metriche di attacco, principali vulnerabilità del codice, application security, information gathering attivo e passivo, exploitation. 
 
 `2021 - 2022`
 **Boolean Careers**
 
-- Corso full-time di sviluppo web full stack: oltre 700 ore di teoria e pratica di programmazione, sia in team che in autonomia
+- Corso full-time di sviluppo web full stack: oltre 700 ore di teoria e pratica di programmazione, sia in team che in autonomia. 
 
 `2016 - 2020`
 **Civica Scuola di Musica Claudio Abbado**
 
-- Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz
+- Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz. 
 
 `2009 - 2011`
 **Université Joseph Fourrier**
 
-- Frequentazione parziale del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
+- Ho frequentato due anni del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
 
 ### Tecnologie
 
@@ -109,7 +109,7 @@ Corso in **Sviluppo sicuro del codice** (Boolean Careers)
 
 ### Lingue
 
-Sono madrelingua **italiano**, **francese** e **inglese**, e fluente in **spagnolo** sia scritto che orale
+Sono **madrelingua** *italiano*, *francese* e *inglese*, e fluente in *spagnolo* sia scritto che orale
 
 <div style="text-align: center; margin-top: 3rem; font-style: italic;">
 Autorizzo il trattamento dei miei dati personali ai sensi del Dlgs 196 del 30 giugno 2003
