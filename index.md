@@ -5,7 +5,7 @@ title: Antonio F Bove
 
 # Antonio François Bove
 
-Junior full stack web developer
+Software Developer
 
 <div id="webaddress" class="contact-info">
     <!-- BUG: non manda la mail -->
@@ -25,10 +25,15 @@ Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conos
 
 ## Attualmente
 
+Ricopro il ruolo di *Consultant* in Capgemini, focalizzato sullo sviluppo frontend di una SPA per cliente finale in ambito bancario. L'applicazione è sviluppata in Angular e mi sono concentrato sul refactoring dello state management, approfondendo così le mie conoscenze **RXJS** e di pattern quali **flux**, **redux**, e **observable data services**. Quest'ultima esperienza mi sta dando la possibilità di apprezzare a pieno questo tipo di soluzioni, rese necessarie da un complesso caso di *shared state*. 
+Capitato in un "grosso" team (15-20 sviluppatori) ho avuto modo di confrontarmi con l'interpretazione *enterprise* delle metodologie **agile**, e anche di iniziare a condividere le mie conoscenze con i colleghi, organizzando una serie di incontri divulgativi sulla programmazione reattiva in Angular e le tematiche sopra citate.
+
+<!-- 
 Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di Guala Closures Group:
 
 - Applicazione **frontend** di tipo enterprise (MES) con Angular e Ionic
 - Progetto di migrazione **dati** verso nuovo ERP (SAP S/4HANA) con Python, Nifi, Airflow
+-->
 
 ### Progetti svolti
 
