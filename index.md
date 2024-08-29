@@ -50,10 +50,10 @@ Capitato in un team numeroso (15-20 sviluppatori), ho avuto modo di confrontarmi
 
 Con un focus sul frontend (Angular) in Capgemini sto avendo modo di vedere tanto codice: sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conoscenze di RXJS e di programmazione reattiva. 
 
-`03/2024 - 04/2024`
+`02/2024 - 04/2024`
 **Insegnante di Javascript** | _Scuola Mohole_
 
-Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgeminiho avuto l'occasione di insegnare javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che interpersonale, che spero di poter ripetere in futuro. 
+Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgeminiho avuto l'occasione di insegnare basi di programmazione in Javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che relazionale, che spero di poter ripetere in futuro. 
 
 `09/2022 - 03/2024`
 **Junior Full Stack Developer** | _Guala Closures Group_
