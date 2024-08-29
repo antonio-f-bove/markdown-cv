@@ -63,8 +63,8 @@ La mia esperienza in questo piccolo reparto IT di una grande multinazionale mi h
 `2022`
 **Junior Full Stack Developer Trainee** | _Boolean Careers_
 
-- Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere. 
-- Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel). 
+Per tutta la sua durata, il bootcamp si è caratterizzato per un forte accento sulla pratica: tutti i pomeriggi avevamo task da risolvere. 
+Durante la parte finale del corso (3 settimane) ho progettato e sviluppato, in team con altre 3 persone, un applicativo ispirato a AirBnb (Vuejs, Laravel). 
 
 `2012 - 2021`
 **Musicista - Insegnate di musica** | _Associazione PlayNow, in proprio_
@@ -76,36 +76,36 @@ La musica, il jazz in particolare, è stata la mia prima grande passione. In que
 `Novembre 2023`
 Corso in **Sviluppo sicuro del codice** (Boolean Careers)
 
-- 25 ore di introduzione alla materia, per iniziare ad integrare la sicurezza alla base nel mio modo di pensare il codice. Competenze acquisite: OWASP, security testing, panoramica sulle metriche di attacco, principali vulnerabilità del codice, application security, information gathering attivo e passivo, exploitation. 
+25 ore di introduzione alla materia, per iniziare ad integrare la sicurezza alla base nel mio modo di pensare il codice. Competenze acquisite: OWASP, security testing, panoramica sulle metriche di attacco, principali vulnerabilità del codice, application security, information gathering attivo e passivo, exploitation. 
 
 `2021 - 2022`
 **Boolean Careers**
 
-- Corso full-time di sviluppo web full stack: oltre 700 ore di teoria e pratica di programmazione, sia in team che in autonomia. 
+Corso full-time di sviluppo web full stack: oltre 700 ore di teoria e pratica di programmazione, sia in team che in autonomia. 
 
 `2016 - 2020`
 **Civica Scuola di Musica Claudio Abbado**
 
-- Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz. 
+Laurea triennale: Triennio Accademico di primo livello (AFAM) in Contrabbasso Jazz. 
 
 `2009 - 2011`
 **Université Joseph Fourrier**
 
-- Ho frequentato due anni del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
+Ho frequentato due anni del triennio di fisica. Primi approcci all'informatica (Programmazione in C e Architettura del Calcolatore)
 
 ### Tecnologie
 
 **Linguaggi**
 
-- HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
+HTML, CSS, Javascript, Typescript, Elixir, PHP, SQL, Python, Bash
 
 **Librerie/Framework**
 
-- Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
+Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
 
 **Tool**
 
-- Git, Jira, Retool
+Git, Jira, Retool
 
 ### Lingue
 
