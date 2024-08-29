@@ -5,7 +5,7 @@ title: Antonio F Bove
 
 # Antonio François Bove
 
-Software Developer
+Sviluppatore Software
 
 <div id="webaddress" class="contact-info">
     <!-- BUG: non manda la mail -->
@@ -21,28 +21,20 @@ Software Developer
 
 ## Profilo
 
-Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi piace scrivere codice pulito ed organizzato, configurare il mio terminale, e soprattutto mi piace risolvere problemi! Per questo cerco una realtà dinamica e moderna nella quale esprimere le mie qualità, sia tecniche che interpersonali, ed investire le mie risorse, crescendo e facendo crescere.
+Sono uno sviluppatore fortemente motivato a rafforzare ed espandere le mie conoscenze e competenze. Mi piace scrivere codice pulito ed organizzato, configurare il mio terminale, e soprattutto mi piace risolvere problemi. 
+Cerco una realtà dinamica e moderna nella quale esprimere le mie qualità, sia tecniche che interpersonali, ed investire le mie risorse, crescendo e facendo crescere.
 
 ## Attualmente
 
 Ricopro il ruolo di *Consultant* in Capgemini, focalizzato sullo sviluppo frontend di una SPA per cliente finale in ambito bancario. L'applicazione è sviluppata in **Angular** e mi sono concentrato sul refactoring dello *state management*, approfondendo così le mie conoscenze di **RXJS** e di pattern quali **flux**, **redux**, e **observable data services**. Quest'ultima esperienza mi sta dando la possibilità di apprezzare a pieno questo tipo di soluzioni, rese necessarie da un complesso caso di *shared state*. 
-Capitato in un "grosso" team (15-20 sviluppatori) ho avuto modo di confrontarmi con l'interpretazione *enterprise* delle metodologie **agile**, e anche di iniziare a condividere le mie conoscenze con i colleghi, organizzando una serie di incontri divulgativi sulla programmazione reattiva in Angular e i pattern sopra citati.
-
-<!-- 
-Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di Guala Closures Group:
-
-- Applicazione **frontend** di tipo enterprise (MES) con Angular e Ionic
-- Progetto di migrazione **dati** verso nuovo ERP (SAP S/4HANA) con Python, Nifi, Airflow
--->
+Capitato in un team numeroso (15-20 sviluppatori), ho avuto modo di confrontarmi con l'interpretazione *enterprise* delle metodologie **agile**, e anche di iniziare a condividere le mie conoscenze con i colleghi, organizzando una serie di incontri divulgativi sulla programmazione reattiva in Angular e i pattern sopra citati.
 
 ### Progetti svolti
 
-<!-- - Progettazione e sviluppo di una applicazione fullstack (scopo didattico)  -->
-
-- Sviluppo e mantenimento di frontend web complessi e crossplatform
+- Sviluppo e mantenimento di frontend web complessi e crossplatform (Angular, Ionic)
 - Refactoring di una codebase e implementazione del layer di internazionalizzazione (i18n)
-- Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati
-- Raccolta di requisiti, progettazione e costruzione di tool ad uso interno
+- Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati (Python, Nifi, Airflow)
+- Raccolta di requisiti, progettazione e costruzione di tool ad uso interno (Retool, Javascript)
 
 ### Interessato a
 
@@ -50,16 +42,13 @@ Sono attivo su due macro aree di sviluppo software all'interno del reparto IT di
 - Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
 - Imparare a testare il codice e acquisire competenze di **TDD**
 - Approfondire i concetti di **programmazione funzionale** (Elixirlang)
-<!--
-- Integrare l'**intelligenza artificiale** nel mio workflow e nei miei applicativi
--->
 
 ## Esperienze
 
 `04/2024 - presente`
 **Consultant - Software Developer** | _Capgemini_
 
-Con un focus sul frontend (Angular) in Capgemini sto avendo modo di mettere mano a *tanto* codice: Sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conose di RXJS e di programmazione reattiva
+Con un focus sul frontend (Angular) in Capgemini sto avendo modo di vedere *tanto* codice: sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conose di RXJS e di programmazione reattiva
 
 `03/2024 - 04/2024`
 **Insegnante di Javascript** | _Scuola Mohole_
@@ -113,8 +102,6 @@ Corso in **Sviluppo sicuro del codice** (Boolean Careers)
 **Librerie/Framework**
 
 - Angular, Ionic, Vue, Svelte, Bootstrap, Tailwind, Laravel, Express, Pandas
-
-<br><br>
 
 **Tool**
 
