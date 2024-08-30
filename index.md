@@ -43,7 +43,7 @@ Capitato in un team numeroso (15-20 sviluppatori), ho avuto modo di confrontarmi
 `04/2024 - presente`
 **Consultant - Software Developer** | _Capgemini_
 
-Con un focus sul frontend in Capgemini sto avendo modo di vedere tanto codice: sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con tanto stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conoscenze di RXJS e di programmazione reattiva. 
+Con un focus sul frontend in Capgemini sto avendo modo di vedere tanto codice: sono capitato su un progetto in ambito banking dentro al quale contribuisco a sviluppare una SPA (Angular) con una grande qunatità di stato da mantenere lato *client*. Mi sono quindi focalizzato su questo aspetto, approfittando per approfondire le mie conoscenze di RXJS e di programmazione reattiva. 
 
 `02/2024 - 04/2024`
 **Insegnante di Javascript** | _Scuola Mohole_
