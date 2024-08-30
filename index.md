@@ -17,6 +17,8 @@ Sviluppatore Software
     <div><em>tel</em>: +39 334 76 18 780</div>
     <div><em>linkedin</em>: <a href="https://www.linkedin.com/in/antonio-f-bove/">/antonio-f-bove</a></div>
     <!-- <div><em>github</em>: <a href="https://github.com/antonio-f-bove">/antonio-f-bove</a></div> -->
+    <div><em>localizzato a</em>: Milano, Italia</div>
+
 </div>
 
 ## Profilo
@@ -36,13 +38,6 @@ Capitato in un team numeroso (15-20 sviluppatori), ho avuto modo di confrontarmi
 - Raccolta di requisiti, progettazione e costruzione di pipeline per migrazione dati (Python, Nifi, Airflow)
 - Raccolta di requisiti, progettazione e costruzione di tool ad uso interno (Retool, Javascript)
 
-### Interessato a
-
-- Espandere la mia conoscenza del web e delle sue tecnologie
-- Ampliare la mia conoscenza dell'Informatica (algoritmi e strutture dati, pattern)
-- Imparare a testare il codice e acquisire competenze di **TDD**
-- Approfondire i concetti di **programmazione funzionale** (Elixirlang)
-
 ## Esperienze
 
 `04/2024 - presente`
@@ -53,7 +48,7 @@ Con un focus sul frontend in Capgemini sto avendo modo di vedere tanto codice: s
 `02/2024 - 04/2024`
 **Insegnante di Javascript** | _Scuola Mohole_
 
-Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgeminiho avuto l'occasione di insegnare basi di programmazione in Javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che relazionale, che spero di poter ripetere in futuro. 
+Nel periodo a cavallo tra il preavviso in Guala Closures e l'inizio in Capgemini ho avuto l'occasione di insegnare basi di programmazione in Javascript a una classe di giovani apprendisti sviluppatori. E stata un'esperienza arricchente, sia dal punto di vista tecnico che relazionale, che spero di poter ripetere in futuro. 
 
 `09/2022 - 03/2024`
 **Junior Full Stack Developer** | _Guala Closures Group_
